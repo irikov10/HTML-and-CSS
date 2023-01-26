@@ -1,0 +1,28 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+header h1 {
+    text-transform: uppercase;
+}
+
+.navigation {
+    list-style: none;
+}
+
+header {
+    border-bottom: 1px solid black;
+}
+
+header *{
+    display: inline-block;
+}
+
+ul li {
+    padding: 10px 5px;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
